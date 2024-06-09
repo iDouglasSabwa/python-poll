@@ -1,3 +1,3 @@
-**Simple Poll App 
-**
+Simple Poll App
+
 Made with Django framework
